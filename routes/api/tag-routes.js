@@ -1,6 +1,4 @@
 const router = require('express').Router();
-const { json } = require('sequelize/types');
-const { toDefaultValue } = require('sequelize/types/lib/utils');
 const { Tag, Product, ProductTag } = require('../../models');
 
   // GET - find all tags
