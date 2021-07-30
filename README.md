@@ -33,7 +33,7 @@ This app is the inclusion of the back end logic for an E-Commerce site by config
 
 This app allows users to view, add, edit/update, and delete categories, products and tags accordingly.
 
-- View the walk-through video for hooking up the DB and seeding data[Here](https://drive.google.com/file/d/1Z5GlOSaFW9eg69xEGYYps87O3Oni5iFK/view)
+- View the walk-through video for hooking up the DB and seeding data [Here](https://drive.google.com/file/d/1Z5GlOSaFW9eg69xEGYYps87O3Oni5iFK/view)
 - View the walk-through video for testing the API routes [Here](https://drive.google.com/file/d/1PBUk2ddamVQ3R5WBFSibBPs9r7Mc3Bgo/view)
 
 ## Technologies Used
