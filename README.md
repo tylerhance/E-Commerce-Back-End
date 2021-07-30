@@ -4,7 +4,7 @@
 
 ## Description 
 
-- This app is the inclusion of the back end logic for an E-Commerce site by configuring a working Express.js API to use Sequelize (ORM) to interact with a MySQL database. The SQL database includes tables for products, categories, tags, and product tags. 
+This app is the inclusion of the back end logic for an E-Commerce site by configuring a working Express.js API to use Sequelize (ORM) to interact with a MySQL database. The SQL database includes tables for products, categories, tags, and product tags. 
 
 ## Table of Contents
 
@@ -26,12 +26,12 @@
 - Source the schema.sql and seed the files using:
     - `npm run seed`
 - To start the server in the command line run:
-    -`npm start`
+    - `npm start`
 ## Usage
 
-- This app allows users to view, add, edit/update, and delete categories, products and tags accordingly.
+This app allows users to view, add, edit/update, and delete categories, products and tags accordingly.
 
-View the walk-through video [Here]()
+- View the walk-through video [Here]()
 
 ## Technologies Used
 
@@ -47,4 +47,4 @@ View the walk-through video [Here]()
 
 ## Questions
 
-- Feel free to drop me a line at <tyler.hance@gmail.com> or check out my **[GitHub Profile](https://github.com/tylerhance)** to check out my other projects.
+- Feel free to drop me a line at <tyler.hance@gmail.com> or visit my **[GitHub Profile](https://github.com/tylerhance)** to check out my other projects.
