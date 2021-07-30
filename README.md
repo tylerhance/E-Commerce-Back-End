@@ -14,7 +14,7 @@ This app is the inclusion of the back end logic for an E-Commerce site by config
 - [License](#license)
 - [Questions](#questions)
 
-# Installation
+## Installation
 
 - Make sure to have Node.js and MySQL installed before starting. 
 - Clone the repo and paste it into your CLI:
@@ -23,6 +23,8 @@ This app is the inclusion of the back end logic for an E-Commerce site by config
     - `npm i` 
 - To hook up the MySQL database in the CLI run:
     - `mysql -u root -p`
+    - Then `source db/schema.sql`
+    - Type `quit` to return to the root directory.
 - Source the schema.sql and seed the files using:
     - `npm run seed`
 - To start the server in the command line run:
@@ -31,7 +33,8 @@ This app is the inclusion of the back end logic for an E-Commerce site by config
 
 This app allows users to view, add, edit/update, and delete categories, products and tags accordingly.
 
-- View the walk-through video [Here]()
+- View the walk-through video for hooking up the DB and seeding data[Here](https://drive.google.com/file/d/1Z5GlOSaFW9eg69xEGYYps87O3Oni5iFK/view)
+- View the walk-through video for testing the API routes [Here](https://drive.google.com/file/d/1PBUk2ddamVQ3R5WBFSibBPs9r7Mc3Bgo/view)
 
 ## Technologies Used
 
